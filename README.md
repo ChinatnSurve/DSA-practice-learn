@@ -1,2 +1,2 @@
-# DSA-practice-learn
-DSA + Interview preparation
+# DSA + Interview preparation
+
